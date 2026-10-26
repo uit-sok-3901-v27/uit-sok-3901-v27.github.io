@@ -9,22 +9,24 @@ Emnet har normalt **ingen forelesninger**. Arbeidet skjer i hovedsak gjennom sel
 
 Som følge av økt bruk av AI-verktøy i akademisk arbeid er det innført oppdaterte retningslinjer for masteroppgaven. Disse endringene innebærer blant annet krav om minimum tre veiledninger, en obligatorisk skriftlig innlevering underveis i semesteret, samt muntlig eksamen i form av forsvar av oppgaven. Formålet med dette er å sikre at arbeidet er studentenes eget, og at vurderingen gir et helhetlig bilde av både prosess og sluttprodukt.
 
+Her finner dere rettningslinjene for å skrive master oppgave (disse oppdateres og får mindre endringer): 
+
 For generell veiledning om struktur, akademisk skriving og oppbygging av større arbeider anbefales det å se GitHub-siden til [SOK-3024 – Forskningsmetode og – formidling](https://uit-sok-3024-h25.github.io/index.html).
 
-Link til universitetets siden [her](https://uit.no/utdanning/emner/emne?p_document_id=906284).
+Link til universitetets siden [her](https://uit.no/utdanning/emner/emne?p_document_id=939442).
 
 ## Emneplan
 
 | Tema                        | Tidspunkt              | Info      |
 |----------------------------|------------------------|------------|
-| Velkomstmøte               | 14. januar             | Gjennomgang av semesteret, forventninger og praktisk opplegg |
-| Midtveispresentasjon       | 26. mars kl. 08:15–12:00 | **Obligatorisk arbeidskrav**. Avholdes på HHT |
-| Skriftlig utkast           | 19. april 23:59             | **Obligatorisk arbeidskrav**. Innlevering av utkast |
+| Velkomstmøte               | TBD                    | Gjennomgang av semesteret, forventninger og praktisk opplegg |
+| Midtveispresentasjon       | TBD ofte slutten av mars | **Obligatorisk arbeidskrav**. Avholdes på HHT |
+| Skriftlig utkast           | TBD                    | **Obligatorisk arbeidskrav**. Innlevering av utkast |
 | Avtalt veiledning          | Innen 1. mai           | **Obligatorisk arbeidskrav**. Minimum tre veiledninger |
-| Godkjenning av forside          | 5. mai           | Forside sendes til Heidi Hemmingsen for godkjenning |
-| Masteroppgaveinnlevering | 15. mai kl. 14:00      |  |
-| Avslutningsseremonien  | 2. juni      |  |
-| Muntlig forsvar | Fastsettes individuelt | Uklar dato, mellom 1. juni til 19 juni  |
+| Godkjenning av forside     | 5. mai                 | Forside sendes til Heidi Hemmingsen for godkjenning |
+| Masteroppgaveinnlevering   | 15. mai kl. 14:00      |  |
+| Avslutningsseremonien      | TBD                    |  |
+| Muntlig forsvar            | Fastsettes individuelt | Uklar dato, mellom 1. juni til 19 juni  |
 
 
 
@@ -93,13 +95,11 @@ Utkastet skal:
 ## Konflikt eller problemer med veileder
 
 Ved faglige eller praktiske problemer i veiledningsforholdet, ta kontakt med fagansvarlig **Eirik Heen**.
-
 Studenter som har Eirik Heen som veileder kan i stedet ta kontakt med **Andrea Mannberg**.
 
 ## Administrative spørsmål
 
 For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>. Der får du hjelp av Handelshøgskolens administrasjon.
-
 
 ## Pensum  
 
@@ -111,8 +111,7 @@ Masteroppgaven vurderes etter karakterskala A–F og består av et skriftlig arb
 Vurderingen er helhetlig og tar utgangspunkt i begge deler.
 
 ### Skriftlig oppgave
-Dere skal levere inn oppgavene deres innen 15. Mai klokken 14:00. Oppgaven skal leveres inn i WiseFlow.
-
+Dere skal levere inn oppgavene deres innen 14. Mai eller 18. Mai klokken 14:00 (egentlig 15 mai. eksakt dato skal avklares med administrasjonen). Oppgaven skal leveres inn i WiseFlow.
 
 ### Muntlig forsvar 
 Det muntlige forsvaret består av:
