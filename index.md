@@ -82,7 +82,7 @@ Se [UiTs etiske retningslinjer for veiledning](https://uit.no/Content/774486/cac
 
 ## Retningslinjer og forventede endringer
 
-[Les gjeldende retningslinjer for masteroppgaver (PDF)](files/25.05.12.%20Retningslinjer%20for%20masteroppgaver.pdf).
+[Les gjeldende retningslinjer for masteroppgaver (PDF)](files/25_05_12_Retningslinjer_for_masteroppgaver.pdf).
 
 **Retningslinjene er under revisjon.** PDF-en over er derfor foreløpig, og enkelte bestemmelser kan bli endret før innlevering våren 2027. Vi forventer særlig følgende endringer for samfunnsøkonomi:
 
