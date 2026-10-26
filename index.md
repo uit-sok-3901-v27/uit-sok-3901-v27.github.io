@@ -9,7 +9,11 @@ Emnet har normalt **ingen forelesninger**. Arbeidet skjer i hovedsak gjennom sel
 
 Som følge av økt bruk av AI-verktøy i akademisk arbeid er det innført oppdaterte retningslinjer for masteroppgaven. Disse endringene innebærer blant annet krav om minimum tre veiledninger, en obligatorisk skriftlig innlevering underveis i semesteret, samt muntlig eksamen i form av forsvar av oppgaven. Formålet med dette er å sikre at arbeidet er studentenes eget, og at vurderingen gir et helhetlig bilde av både prosess og sluttprodukt.
 
-Her finner dere rettningslinjene for å skrive master oppgave (disse oppdateres og får mindre endringer): 
+Her finner dere rettningslinjene for å skrive master oppgave (disse oppdateres og får mindre endringer): [Rettningslinjene](files/25.05.12. Retningslinjer for masteroppgaver.pdf)
+Endinger som kan komme:
+*  alle skal skrive 20-40 sider
+*  KI deklerasjon skal være i appenixet
+*  Eventuelt andre små endringer.
 
 For generell veiledning om struktur, akademisk skriving og oppbygging av større arbeider anbefales det å se GitHub-siden til [SOK-3024 – Forskningsmetode og – formidling](https://uit-sok-3024-h25.github.io/index.html).
 
